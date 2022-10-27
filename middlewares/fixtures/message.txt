@@ -1,0 +1,23 @@
+{
+  update_id: 329408735,
+  message: {
+    message_id: 16,
+    from: {
+      id: 643701504,
+      is_bot: false,
+      first_name: 'Maxim',
+      last_name: 'G',
+      username: 'mauldmm',
+      language_code: 'ru'
+    },
+    chat: {
+      id: 643701504,
+      first_name: 'Maxim',
+      last_name: 'G',
+      username: 'mauldmm',
+      type: 'private'
+    },
+    date: 1666893233,
+    text: 'Hello there'
+  }
+}
